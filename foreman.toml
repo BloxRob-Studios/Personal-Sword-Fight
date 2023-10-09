@@ -3,4 +3,3 @@
 # rojo = { github = "rojo-rbx/rojo", version = "7.0.0" }
 
 [dependencies]
-Knit = "sleitnick/knit@^1"
